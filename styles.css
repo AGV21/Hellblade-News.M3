@@ -44,3 +44,8 @@ ul{
     font-size: 40px;
 }
 
+label{
+    font-size: 12px;
+    display: block;
+}
+
