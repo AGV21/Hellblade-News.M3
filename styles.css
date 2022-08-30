@@ -28,18 +28,6 @@ Footer{
     font-size: 30px;
 }
 
-div.transfooter{
-    margin: 200px;
-    background: rgba(0,0,0,.5);
-    color: #ab966f;
-}
-
-#right:{
-    float: right;
-    
-    
-}
-
 #resize{
     max-height: 50%;
     max-width: 87%;
