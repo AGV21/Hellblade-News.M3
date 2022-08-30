@@ -1,0 +1,44 @@
+#mainContainer{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(Skulls_Wide.jpg);
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    font-size: 50px;
+    opacity: 1;
+}
+
+div.transbox{
+    margin: 30px;
+    background: rgba(0,0,0,.5);
+    color: red;
+}
+
+.myh4{
+    font-size: 20px;
+}
+
+Footer{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 30px;
+}
+
+div.transfooter{
+    margin: 200px;
+    background: rgba(0,0,0,.5);
+    color: #ab966f;
+}
+
+#right:{
+    float: right;
+    
+    
+}
+
+#resize{
+    max-height: 50%;
+    max-width: 87%;
+}
