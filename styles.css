@@ -1,3 +1,4 @@
+/*stylize background, font, and positioning*/
 #mainContainer{
     width: 700px;
     margin-left: auto;
@@ -13,21 +14,23 @@
 
 div.transbox{
     margin: 30px;
+    /*Text box transparent*/
     background: rgba(0,0,0,.5);
+    /*text color*/
     color: red;
 }
 
 .myh4{
     font-size: 20px;
 }
-
+/*positioning of footer*/
 Footer{
     width: 700px;
     margin-left: auto;
     margin-right: auto; 
     font-size: 30px;
 }
-
+/*make all images classed as resize a certain size*/
 #resize{
     max-height: 50%;
     max-width: 87%;
