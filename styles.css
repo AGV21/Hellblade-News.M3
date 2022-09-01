@@ -39,12 +39,12 @@ Footer{
 li{
     display: inline;
 }
+/*text color when hover over*/
 li a:hover{
     color: #ff0737;
 }
 
 ul{
-    display: inline;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -55,11 +55,11 @@ label{
     font-size: 16px;
     display: block;
 }
-
+/*removed underline from links*/
 nav a{
     text-decoration: none;
 }
-
+/*links text color*/
 a{
     color: white;
 }
